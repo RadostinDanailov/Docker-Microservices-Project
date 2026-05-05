@@ -33,6 +33,15 @@ docker_training/
 │   └── nginx.conf
 └── docker-compose.yml
 
+
+
+
+
+
+
+
+
+
 Code
 
 ---
@@ -53,6 +62,11 @@ json
 }
 
 
+
+
+
+
+
 ##Technologies Used
 -Docker
 -Docker Compose
@@ -61,6 +75,14 @@ json
 -Nginx
 -Linux/WSL
 
+
+
+
+
+
+
+
+
 ##What I Learned
 -Building multi‑service architectures
 -Debugging Docker containers and volumes
@@ -68,6 +90,13 @@ json
 -Using Nginx as a reverse proxy
 -Connecting Python APIs to Redis
 -Fixing real‑world DevOps issues (caching, volumes, container exits, etc.)
+
+
+
+
+
+
+
 
 ##Possible Future Improvements:
 -Add Postgres database
